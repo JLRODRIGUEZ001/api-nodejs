@@ -1,0 +1,24 @@
+{
+  "name": "app-service-lab2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Desconocido",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLRODRIGUEZ001/api-node-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JLRODRIGUEZ001/api-node-app/issues"
+  },
+  "homepage": "https://github.com/JLRODRIGUEZ001/api-node-app#readme",
+  "description": ""
+}
